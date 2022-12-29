@@ -27,9 +27,9 @@
 
 ### Built With
 
-[![HTML][React.js]][React-url]
-[![CSS][React.js]][React-url]
-[![Reac Jst][React.js]][React-url]
+[![HTML][HTML]][HTML-url]
+[![CSS][CSS]][CSS-url]
+[![React Jst][React.js]][React-url]
 [![React][React.js]][React-url]
 
 <!-- ABOUT THE PROJECT -->
@@ -53,3 +53,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[HTML]: https://img.shields.io/badge/-HTML-orange
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://img.shields.io/badge/-CSS-orange
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
