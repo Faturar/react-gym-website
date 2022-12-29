@@ -46,10 +46,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![HTML][React.js]][React-url]
-* [![CSS][React.js]][React-url]
-* [![Reac Jst][React.js]][React-url]
-* [![React][React.js]][React-url]
+[![HTML][React.js]][React-url]
+[![CSS][React.js]][React-url]
+[![Reac Jst][React.js]][React-url]
+[![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
