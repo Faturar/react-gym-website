@@ -18,7 +18,7 @@
 <h3 align="center">React GYM Wesbite</h3>
 
   <p align="center">
-    project_description
+    This project is about me learn how to make a gym website using React JS from youtube
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -31,7 +31,12 @@
   </p>
 </div>
 
+### Built With
 
+[![HTML][React.js]][React-url]
+[![CSS][React.js]][React-url]
+[![Reac Jst][React.js]][React-url]
+[![React][React.js]][React-url]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -44,12 +49,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
 
-[![HTML][React.js]][React-url]
-[![CSS][React.js]][React-url]
-[![Reac Jst][React.js]][React-url]
-[![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
