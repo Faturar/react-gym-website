@@ -27,10 +27,7 @@
 
 ### Built With
 
-[![HTML][HTML]][HTML-url]
-[![CSS][CSS]][CSS-url]
 [![React Jst][React.js]][React-url]
-[![React][React.js]][React-url]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
