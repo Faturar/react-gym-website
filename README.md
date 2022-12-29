@@ -29,14 +29,6 @@
 
 [![React Jst][React.js]][React-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
